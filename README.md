@@ -1,7 +1,7 @@
 Kubecon Seattle 2018 Gitops Tutorial
 ====================================
 
-This repository contains the hands-on Gitops tutorial given at Kubecon 2018 in Seattle. You can find the slides by clicking the image below. Follow the tutorial by reading through this README.
+THis repository contains the hands-on Gitops tutorial given at Kubecon 2018 in Seattle. You can find the slides by clicking the image below. Follow the tutorial by reading through this README.
 
 If you see errors, mistakes or typos in this tutorial, please feel free to submit a pull request.
 
